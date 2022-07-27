@@ -1,0 +1,63 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  color: black;
+  border: 2px solid;
+  border-radius: 2rem;
+  padding: 1rem;
+  background-color: #f5d0fe;
+}
+.container {
+  border: 5px solid #170227;
+  border-radius: 2rem;
+  padding: 1rem;
+  margin: auto;
+  width: 600px;
+}
+
+.tittle {
+  margin-bottom: 50px;
+  margin-left: 10rem;
+  padding: 1rem;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+  color: white;
+  color: black;
+  border: 2px solid;
+  border-radius: 2rem;
+  padding: 1rem;
+  background-color: #f5d0fe;
+  width: 250px;
+}
+
+.generes {
+  margin: 1rem;
+}
+.generes span {
+  padding: 1rem;
+  font-weight: bold;
+  border: 3px solid #170227;
+  margin: 15px;
+  cursor: pointer;
+  border-radius: 2rem;
+  background-color: #f5d0fe;
+}
+
+.list {
+  margin: 2rem;
+  padding: 0.5rem;
+}
+
+.list li {
+  border: 3px solid #170227;
+  margin: 2rem;
+  padding: 2rem;
+  list-style: none;
+  border-radius: 2rem;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #f5d0fe;
+}
